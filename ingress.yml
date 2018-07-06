@@ -11,4 +11,4 @@ spec:
       - path: /my-tomcat 
         backend: 
           serviceName: my-tomcat 
-          servicePort: 80
+          servicePort: 8085
